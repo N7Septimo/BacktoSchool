@@ -1,0 +1,6 @@
+{
+  "name": "Evelyn's Back to School Budget Planner",
+  "description": "Collaborate in real-time to plan school supply list items, set category-based spending limits, track expenses, and get personalized budget saving tips using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
